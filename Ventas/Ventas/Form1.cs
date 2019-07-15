@@ -19,7 +19,7 @@ namespace Ventas
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hola mundo");
+            MessageBox.Show("Valora lo que tienes, Supera lo que te duele, Y lucha por lo que quieres");
         }
     }
 }
